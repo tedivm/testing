@@ -1,5 +1,3 @@
 # testing
 
-PR Test
-
-Second Commit
+This is a test repository, please ignore.
