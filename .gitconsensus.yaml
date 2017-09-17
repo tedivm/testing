@@ -1,5 +1,5 @@
 # minimum number of votes
-quorum: 5
+quorum: 2
 
 # Don't count any vote from a user who votes for multiple options
 prevent_doubles: true
