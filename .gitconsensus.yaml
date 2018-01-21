@@ -15,3 +15,5 @@ mergedelay: 3
 
 # Number of days after last commit before issue is autoclosed
 timeout: 90
+
+locklicense: true
