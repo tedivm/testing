@@ -1,4 +1,4 @@
 # testing
 
-This is a test repository, please ignore.
+This is a test repository, please continue to ignore.
 
